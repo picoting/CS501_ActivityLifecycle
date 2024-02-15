@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ActivityLifecycle</string>
+
+    <string name="buttonText">click me to say hello</string>
+
+    <string name="editText">editText</string>
+    <string name="textView">textView</string>
 </resources>
